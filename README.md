@@ -54,10 +54,10 @@ The app will be accessible in your web browser, where you can upload images and 
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/Screenshot1.png)
+![Screenshot 1](Screenshots/Screenshot-1.png)
 *Screenshot of the Streamlit app displaying uploaded image*
 
-![Screenshot of Classification Results](Screenshots/Screenshot 2.png)
+![Screenshot 1](Screenshots/Screenshot-2.png)
 *Screenshot of the Streamlit app showing classification results*
 
 ## Acknowledgments
