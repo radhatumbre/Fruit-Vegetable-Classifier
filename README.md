@@ -51,11 +51,14 @@ streamlit run app.py
 
 The app will be accessible in your web browser, where you can upload images and get predictions from the trained model.
 
-## Folder Structure
 
-- `dataset/`: Contains the downloaded dataset.
-- `Image_Class_Model.ipynb`: Jupyter notebook for model training.
-- `app.py`: Streamlit app for classification.
+## Screenshots
+
+![Screenshot of Uploaded Image](Screenshots/Screenshot 1.png)
+*Screenshot of the Streamlit app displaying uploaded image*
+
+![Screenshot of Classification Results](Screenshots/Screenshot 2.png)
+*Screenshot of the Streamlit app showing classification results*
 
 ## Acknowledgments
 
@@ -64,3 +67,5 @@ The app will be accessible in your web browser, where you can upload images and 
 ---
 
 Feel free to customize this README as needed for your project. You can add more details about the project, results, contributors, license, etc., based on your requirements.
+
+
