@@ -3,11 +3,11 @@
 # Fruit and Vegetable Classifier
 
 ## Overview
-This project is a fruit and vegetable classifier that uses deep learning techniques to classify images of fruits and vegetables. It leverages the MobileNetV2 architecture for efficient image classification.
+This project is a fruit and vegetable classifier that uses deep learning techniques to classify images of fruits and vegetables. 
 
 ## Features
 - Image classification: The system can classify various fruits and vegetables based on input images.
-- Deep learning model: The classifier uses a MobileNetV2 convolutional neural network (CNN) for accurate predictions.
+- Deep learning model: The classifier uses a  convolutional neural network (CNN) for accurate predictions.
 - Streamlit frontend: The user interface is built using Streamlit, providing an interactive platform for image classification.
 
 ## Technologies Used
